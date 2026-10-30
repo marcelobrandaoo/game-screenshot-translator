@@ -1,0 +1,14 @@
+{
+  "screenshots_folder": "C:/Users/SEU_USUARIO/Pictures/Screenshots",
+  "tesseract_cmd": "C:/Program Files/Tesseract-OCR/tesseract.exe",
+  "ocr_language": "eng",
+  "monitor_number": 2,
+  "window_width": 720,
+  "window_height": 520,
+  "always_on_top": true,
+  "preprocess_image": true,
+  "minimum_text_length": 2,
+  "translation_provider": "mymemory",
+  "delete_after_processing": true,
+  "only_process_files_created_after_start": true
+}

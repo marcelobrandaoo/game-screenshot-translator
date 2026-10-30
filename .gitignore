@@ -1,0 +1,20 @@
+# Configuração local com caminhos pessoais
+config.json
+
+# Ambientes virtuais e arquivos gerados pelo Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Variáveis de ambiente locais
+.env
+.env.*
+!.env.example
+
+# Arquivos locais do sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
